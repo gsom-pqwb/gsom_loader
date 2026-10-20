@@ -147,3 +147,7 @@ You can change the `wait_time`, but it is not recommended to touch other `Timer`
 * `void reload_async(path: String)`
     
     Similar to load_async but disregards cache if the resource has already been cached by a previous load call.
+
+## Contribution language
+
+Use English for all project-authored repository content and official communication, including source code, identifiers, comments, documentation, examples, configuration text, file and directory names, commit messages, issues, pull request titles and descriptions, reviews, and release notes.
